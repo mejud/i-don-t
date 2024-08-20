@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> calculator</title>
+<style>
+.big{width: 400px; height: 400px; display: flex; flex-wrap: wrap;}
+.small{width:90px; height:90px; background-color: darkgray; 
+    font-family: sans-serif; font-size: 60px; text-align: center; border: 5px solid black;}
+</style>
+</head>
+<body>
+      <div class="big" style="color: white">
+        <div class="small">C</div>
+        <div class="small">⌫</div>
+        <div class="small">%</div>
+        <div class="small">÷</div>
+        <div class="small">7</div>
+        <div class="small">8</div>
+        <div class="small">9</div>
+        <div class="small">x</div>
+        <div class="small">4</div>
+        <div class="small">5</div>
+        <div class="small">6</div>
+        <div class="small">-</div>
+        <div class="small">1</div>
+        <div class="small">2</div>
+        <div class="small">3</div>
+        <div class="small">+</div>
+        <div class="small"></div>
+        <div class="small">0</div>
+        <div class="small">.</div>
+        <div class="small">=</div>
+      </div>
+</body>
+</html>
